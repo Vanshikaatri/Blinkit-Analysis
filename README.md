@@ -1,7 +1,7 @@
 # Blinkit-Analysis
 
 
-** STEPS IN A PROJECT:**
+**STEPS IN A PROJECT:**
 
 **1. Requirements Gathering/ Business Requirements:**
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
@@ -39,16 +39,20 @@ Chart Type: Bar Chart.
 
 **2. Data Walkthrough**
 
-3. Data Connection
+**3. Data Connection**
 
-4. Data Cleaning
+**4. Data Cleaning**
 
-5. Data Modelling
+**5. Data Modelling**
 
-6. Data Processing
-7. DAX Calculations
-8. Dashboard Lay Outing
+**6. Data Processing**
 
-9. Charts Development and Formatting
-10. Dashboard/ Report Development
-11. Insights Generation
+**7. DAX Calculations**
+
+**8. Dashboard Lay Outing**
+
+**9. Charts Development and Formatting**
+
+**10. Dashboard/ Report Development**
+
+**11. Insights Generation**
